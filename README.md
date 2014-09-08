@@ -3,6 +3,8 @@ php-db
 
 An object oriented, no dependency, lightweight databasing engine for php.
 
+Inspiration for this repository came from a need to store a small* amount of data ( <10,000 records) on a Raspberry Pi. The thesis for this repostiroy is simple : To provide a lightweight, and simple way of storing open-ended data with PHP. With php-db, there are no dependencies other than PHP V 5.0+. With php-db, a user can simply and quickly store OO driven data, for small-time applications.
+
 `Usuage : require_once '/path/to/db.php';`
 
 #####add
