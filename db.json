@@ -1,0 +1,13 @@
+{
+	"dbPath": "db",
+	"debug": 0,
+	"throwException": 1,
+	"delimiter": ";",
+	"allowBlank": 1,
+	"fork": 1
+}
+    
+    
+    
+    
+    
